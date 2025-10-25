@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetKubernetes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+630325fd5188586f43b12b75da46b24dc080e81d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dcf1b30508455689f3809f90c30c211ad6ac218")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetKubernetes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetKubernetes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
