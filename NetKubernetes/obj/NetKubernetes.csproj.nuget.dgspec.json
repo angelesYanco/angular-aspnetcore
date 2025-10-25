@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {}
+    "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {}
   },
   "projects": {
-    "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {
+    "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
+        "projectUniqueName": "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
         "projectName": "NetKubernetes",
-        "projectPath": "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
+        "projectPath": "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "E:\\angular-aspnetcore\\NetKubernetes\\obj\\",
+        "outputPath": "D:\\angular_aspnetcore\\NetKubernetes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[15.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -104,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
