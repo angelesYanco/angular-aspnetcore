@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KN/ydTSaRa4=",
+  "dgSpecHash": "8sPcE602JIQ=",
   "success": true,
-  "projectFilePath": "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
+  "projectFilePath": "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

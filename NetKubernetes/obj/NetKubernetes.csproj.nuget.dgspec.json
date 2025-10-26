@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {}
+    "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {}
   },
   "projects": {
-    "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {
+    "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
+        "projectUniqueName": "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
         "projectName": "NetKubernetes",
-        "projectPath": "D:\\angular_aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
+        "projectPath": "E:\\angular-aspnetcore\\NetKubernetes\\NetKubernetes.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "D:\\angular_aspnetcore\\NetKubernetes\\obj\\",
+        "outputPath": "E:\\angular-aspnetcore\\NetKubernetes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
